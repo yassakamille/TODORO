@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TODORO - Copy/app/src/main/res/drawable/background.xml" value="0.141" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/drawable/background1.xml" value="0.141" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/drawable/background2.xml" value="0.141" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/drawable/backgroundshowall.xml" value="0.141" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/layout/activity_about.xml" value="0.1814814814814815" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/layout/activity_homepage.xml" value="0.1814814814814815" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/layout/activity_local_pdf.xml" value="0.1814814814814815" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/layout/activity_main.xml" value="0.1814814814814815" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/layout/activity_main2.xml" value="0.1675929884566054" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/layout/activity_pdfview.xml" value="0.1814814814814815" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/layout/activity_pomodoro.xml" value="0.1675929884566054" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/layout/activity_regisration.xml" value="0.17731481481481481" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/layout/activity_schedule.xml" value="0.1814814814814815" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/layout/activity_showall.xml" value="0.1675929884566054" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/layout/activity_showmovies.xml" value="0.1675929884566054" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/layout/activity_splashscreen.xml" value="0.1675929884566054" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/layout/activity_startactivity.xml" value="0.1814814814814815" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/layout/activity_timer.xml" value="0.1675929884566054" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/layout/showall.xml" value="0.1675929884566054" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/layout/todo.xml" value="0.1814814814814815" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/menu/delete_pomodoro.xml" value="0.16673792218896966" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/menu/deleteshow.xml" value="0.1675929884566054" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/menu/popup.xml" value="0.1675929884566054" />
+        <entry key="..\:/TODORO - Copy/app/src/main/res/menu/popupdelete.xml" value="0.1675929884566054" />
+        <entry key="..\:/TODORO/app/src/main/res/layout/activity_regisration.xml" value="0.18055555555555555" />
+        <entry key="..\:/TODORO/app/src/main/res/layout/activity_schedule.xml" value="0.1814814814814815" />
+        <entry key="..\:/TODORO/app/src/main/res/layout/activity_splashscreen.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.145" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/drawable/addsubject_background.xml" value="0.1105" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/drawable/back.xml" value="0.145" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/drawable/background.xml" value="0.137" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/drawable/background1.xml" value="0.137" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/drawable/background2.xml" value="0.14" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/drawable/finalanamadited.xml" value="0.14" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/drawable/ic_launcher_background.xml" value="0.145" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/drawable/icons.xml" value="0.1" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/drawable/img_addsbjct.xml" value="0.1105" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/drawable/texthome.xml" value="0.145" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/drawable/textsettings.xml" value="0.145" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/drawable/txthome.xml" value="0.145" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/drawable/winnnerbackground.xml" value="0.1055" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/layout-v31/activity_startactivity.xml" value="0.1984375" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/layout/activity_about.xml" value="0.16203703703703703" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/layout/activity_forget_password.xml" value="0.16" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/layout/activity_homepage.xml" value="0.22" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/layout/activity_main.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/layout/activity_my.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/layout/activity_pdfview.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/layout/activity_regisration.xml" value="0.22" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/layout/activity_schedule.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/layout/activity_settings.xml" value="0.2" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/layout/activity_splashscreen.xml" value="0.2" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/layout/activity_startactivity.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/layout/activity_weblecs.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/layout/delete.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/layout/startbackground.xml" value="0.1763888888888889" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/layout/todo.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/menu/popup.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/menu/popupdelete.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/menu/simple.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/menu/sub.xml" value="0.18" />
+        <entry key="..\:/Users/Byte Store/TODORO/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1105" />
+        <entry key="app/src/main/res/layout-v31/activity_startactivity.xml" value="0.28425925925925927" />
+        <entry key="app/src/main/res/layout/activity_about.xml" value="0.28425925925925927" />
+        <entry key="app/src/main/res/layout/activity_homepage.xml" value="0.28425925925925927" />
+        <entry key="app/src/main/res/layout/activity_local_pdf.xml" value="0.22546296296296298" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.28425925925925927" />
+        <entry key="app/src/main/res/layout/activity_pdfview.xml" value="0.28425925925925927" />
+        <entry key="app/src/main/res/layout/activity_regisration.xml" value="0.28425925925925927" />
+        <entry key="app/src/main/res/layout/activity_schedule.xml" value="0.28425925925925927" />
+        <entry key="app/src/main/res/layout/activity_splashscreen.xml" value="0.28425925925925927" />
+        <entry key="app/src/main/res/layout/activity_startactivity.xml" value="0.28425925925925927" />
+        <entry key="app/src/main/res/layout/karlopdf.xml" value="0.28425925925925927" />
+        <entry key="app/src/main/res/layout/todo.xml" value="0.28425925925925927" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

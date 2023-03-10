@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+      android:id="@+id/itm_clrall"
+      android:title="@string/clear_all"
+
+android:iconTint="#E30E0E"
+
+
+      />
+  <item
+      android:id="@+id/item_disppr"
+      android:title="@string/disappear_all"
+
+      android:iconTint="#E30E0E"
+
+
+      />
+
+  />
+  <item
+      android:id="@+id/item_appr"
+      android:title="@string/appear_all"
+
+      android:iconTint="#E30E0E"
+
+
+      />
+</menu>

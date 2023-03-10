@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/paper"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".showall">
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="280dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginLeft="25dp"
+            android:background="@drawable/white"
+            android:gravity="center"
+            android:text="Subjects you studied"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+
+        <ImageView
+
+            android:id="@+id/img_sbmenu"
+            android:layout_width="40dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="20dp"
+            android:src="@drawable/submenu" />
+
+
+    </LinearLayout>
+
+    <nl.dionsegijn.konfetti.KonfettiView
+        android:id="@+id/celebrate"
+        android:layout_width="match_parent"
+        android:layout_height="570dp"
+        android:visibility="gone" />
+
+    <ListView
+        android:id="@+id/ListView1"
+        android:layout_width="match_parent"
+        android:layout_height="520dp"
+        android:layout_marginTop="50dp"
+        android:visibility="visible" />
+
+    <LinearLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_gravity="left"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txt_bckshow"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/back"
+            android:fontFamily="@font/handlee"
+            android:gravity="center"
+            android:text="Back"
+            android:textColor="#000000"
+            android:textSize="17dp" />
+    </LinearLayout>
+</LinearLayout>

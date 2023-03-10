@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TODORO</string>
+    <string name="login">Login</string>
+    <string name="please_enter_your_password">Please Enter Your Password</string>
+    <string name="please_enter_your_e_mail">Please Enter Your E-mail</string>
+    <string name="todoro">TODORO</string>
+
+    <string name="enter_your_full_name">Enter your full name</string>
+    <string name="enter_your_e_mail_address">Enter your E-mail address</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="register">Register</string>
+    <string name="back"><![CDATA[< Back]]></string>
+    <string name="todoro_icon">TODORO Icon</string>
+    <string name="app_icon">App Icon</string>
+    <string name="enter">ENTER</string>
+    <string name="forget_password">Forget Password ?</string>
+
+    >
+
+
+    <string name="add_subject">Add Subject</string>
+    <string name="no_available_subjects">No Available Subjects</string>
+
+    <string name="clear_all">Clear All</string>
+    <string name="disappear_all">Disappear All</string>
+    <string name="appear_all">Appear All</string>
+    <string name="delete">delete</string>
+
+
+    <string name="enter_your_e_mail_address_to_receive_reset_code">Enter your E-mail address to receive reset code</string>
+
+    <string name="start">Start</string>
+
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="contact_us">Contact Us</string>
+
+</resources>
