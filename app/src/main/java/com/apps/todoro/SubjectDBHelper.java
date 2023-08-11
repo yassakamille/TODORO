@@ -19,12 +19,12 @@ public class SubjectDBHelper extends SQLiteOpenHelper {
     @Override
     public void onCreate(SQLiteDatabase db) {
         db.execSQL("create table subject (id integer primary key," +
-                " name text not null");
+                " name text not null)");
     }
 
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
-        db.execSQL("drop table if exist subject");
+        db.execSQL("drop table if exists subject");
         onCreate(db);
     }
 
@@ -33,8 +33,11 @@ public class SubjectDBHelper extends SQLiteOpenHelper {
         rows.put("name", name);
 
         subjectDatabase = getWritableDatabase();
-        subjectDatabase.insert("subject", null, rows);
-        subjectDatabase.close();
+        try {
+            subjectDatabase.insert("subject", null, rows);
+        } finally {
+            subjectDatabase.close();
+        }
     }
 
     public Cursor fetchAllsubjects() {
@@ -68,6 +71,5 @@ public class SubjectDBHelper extends SQLiteOpenHelper {
     }
 
 }
-
 
 
